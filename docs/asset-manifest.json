@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bd7a414a.css",
+    "main.js": "/static/js/main.56a074c8.js",
+    "static/js/27.077040e8.chunk.js": "/static/js/27.077040e8.chunk.js",
+    "static/media/ronHero.jpg": "/static/media/ronHero.d8cec8efd40b9ee589ef.jpg",
+    "static/media/gohawaii.jpg": "/static/media/gohawaii.afe1681c55afcfacb801.jpg",
+    "static/media/bestwestern.jpg": "/static/media/bestwestern.644e74f7e512f64e1dbc.jpg",
+    "static/media/guitarplayer.jpg": "/static/media/guitarplayer.4d4a4e288d6dac4eba5a.jpg",
+    "static/media/ronHeroMobile.jpg": "/static/media/ronHeroMobile.87482fcc4fc7faa5ff52.jpg",
+    "static/media/goldengaming.jpg": "/static/media/goldengaming.f80e341878e91b26c482.jpg",
+    "static/media/onevameonevapro.jpg": "/static/media/onevameonevapro.0176b723b47026820223.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/onevaPublic.jpg": "/static/media/onevaPublic.61447591b0abd3416051.jpg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/resume.pdf": "/static/media/resume.f3a5374ee6a878c0aa8e.pdf",
+    "static/media/404.jpg": "/static/media/404.19e523cdb4d4a12db938.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/rtl.jpg": "/static/media/rtl.fc623d3befe9a7acb1ac.jpg",
+    "static/media/dark.jpg": "/static/media/dark.c1cda9e0d5088e62fa77.jpg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/cancel.svg": "/static/media/cancel.17825c74c3c6b6934429010ee3f913fd.svg",
+    "static/media/quote.svg": "/static/media/quote.6b6d47557f1672a2ce0f199a1bd468dc.svg",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.bd7a414a.css",
+    "static/js/main.56a074c8.js"
+  ]
+}
