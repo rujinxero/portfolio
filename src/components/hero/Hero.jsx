@@ -11,7 +11,7 @@ const heroContent = {
   heroTitleName: "Ron Colombo",
   heroDesignation: "web developer",
   heroDescriptions: `US-based React specialist & software engineer, I'm celebrated for delivering precision-engineered, QA-passed code that consistently outperforms expectations. My meticulous approach to unit testing underscores my passion for excellence and my commitment to creating technology that positively impacts lives.`,
-  heroBtn: "more about me!",
+  heroBtn: "more about me",
 };
 
 const Hero = () => {
